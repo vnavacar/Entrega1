@@ -2,11 +2,6 @@
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 
 •  ¿Qué algoritmos usas en tu vida cotidiana? ¿Piensas que podrías escribir un programa para hacerlos más eficientes?
 
@@ -27,7 +22,6 @@ Un videojuego puede tener cierto orden en que se procesan acciones para asegurar
 Utilize el API de los mercados de un videojuego (Eve Online)  para tratar de analizar que podía producir para obtener beneficios. Funcionaba en el sentido amplio, pero necesitaba mejoras para mejor considerar los volúmenes en los mercados y volatilidad.
 
 
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
